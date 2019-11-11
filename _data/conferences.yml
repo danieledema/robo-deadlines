@@ -39,3 +39,13 @@
   date: June 23-26, 2020
   place: Las Vegas, NV, United States
   sub: RO
+
+- title: PLANS
+  year: 2020
+  id: plans20
+  link: https://www.ion.org/plans/
+  deadline: '2020-02-03 23:59:59'
+  timezone: UTC-12
+  date: April 20-23, 2020
+  place: Portland, Oregon, United States
+  sub: RO
