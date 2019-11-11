@@ -49,3 +49,13 @@
   date: April 20-23, 2020
   place: Portland, Oregon, United States
   sub: RO
+
+- title: WAFR
+  year: 2020
+  id: wafr20
+  link: http://robotics.cs.rutgers.edu/wafr2020/
+  deadline: '2020-01-10 23:59:59'
+  timezone: UTC-12
+  date: June 15-17, 2020
+  place: Oulu, Finland
+  sub: RO
