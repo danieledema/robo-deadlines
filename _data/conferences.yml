@@ -1,15 +1,5 @@
 ---
 
-- title: ITSC
-  year: 2020
-  id: itsc20
-  link: https://www.ieee-itsc2020.org/
-  deadline: '2020-02-14 23:59:59'
-  timezone: America/Los_Angeles
-  date: Sep 20-23, 2020
-  place: Rhodes, Greece
-  sub: RO
-
 - title: IROS
   year: 2020
   id: iros20
@@ -28,4 +18,24 @@
   timezone: UTC-12
   date: Jul 12-17, 2020
   place: Oregon State University at Corvallis, Oregon
+  sub: RO
+  
+- title: ITSC
+  year: 2020
+  id: itsc20
+  link: https://ieee-itsc2020.org/
+  deadline: '2020-01-30 23:59:59'
+  timezone: UTC-12
+  date: Sep 20-23, 2020
+  place: Rhodes, Greece
+  sub: RO
+  
+- title: IV
+  year: 2020
+  id: iv20
+  link: https://2020.ieee-iv.org/
+  deadline: '2020-02-1 23:59:59'
+  timezone: UTC-12
+  date: June 23-26, 2020
+  place: Las Vegas, NV, United States
   sub: RO
