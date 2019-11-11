@@ -89,3 +89,13 @@
   date: None
   place: None
   sub: RO, ML, CV
+
+- title: BMVC
+  year: 2020
+  id: bmvc20
+  link: None
+  deadline: 'None'
+  timezone: UTC-12
+  date: None
+  place: None
+  sub: RO, ML, CV
