@@ -64,8 +64,18 @@
   year: 2020
   id: ijcai20
   link: https://www.ijcai.org/
-  deadline: '2020-01-7 23:59:59'
+  deadline: '2020-01-07 23:59:59'
   timezone: UTC-12
   date: July 11-17, 2020
   place: Yokohama, Japan
   sub: ML
+
+- title: ECMR
+  year: 2020
+  id: ecmr20
+  link: http://ecmr2021.org/
+  deadline: '2021-04-01 23:59:59'
+  timezone: UTC-12
+  date: September 2021
+  place: Bonn, Germany
+  sub: RO
