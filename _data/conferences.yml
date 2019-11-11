@@ -1,5 +1,14 @@
 ---
 
+- title: DeLTA
+  year: 2020
+  id: delta20
+  link: http://www.delta.scitevents.org/
+  deadline: '2020-02-14 23:59:59'
+  timezone: GMT+1
+  date: Jul 8-10, 2020
+  place: Paris, France
+
 - title: ISR
   year: 2020
   id: isr20
