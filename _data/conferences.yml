@@ -8,7 +8,6 @@
   timezone: America/Los_Angeles
   date: Oct 24-30, 2020
   place: Las Vegas, USA
-  sub: RO
 
 - title: RSS
   year: 2020
@@ -18,7 +17,6 @@
   timezone: UTC-12
   date: Jul 12-17, 2020
   place: Oregon State University at Corvallis, Oregon
-  sub: RO
   
 - title: ITSC
   year: 2020
@@ -28,7 +26,6 @@
   timezone: UTC-12
   date: Sep 20-23, 2020
   place: Rhodes, Greece
-  sub: RO
   
 - title: IV
   year: 2020
@@ -38,7 +35,6 @@
   timezone: UTC-12
   date: June 23-26, 2020
   place: Las Vegas, NV, United States
-  sub: RO
 
 - title: PLANS
   year: 2020
@@ -48,7 +44,6 @@
   timezone: UTC-12
   date: April 20-23, 2020
   place: Portland, Oregon, United States
-  sub: RO
 
 - title: WAFR
   year: 2020
@@ -58,7 +53,6 @@
   timezone: UTC-12
   date: June 15-17, 2020
   place: Oulu, Finland
-  sub: RO
   
 - title: IJCAI
   year: 2020
@@ -68,7 +62,6 @@
   timezone: UTC-12
   date: July 11-17, 2020
   place: Yokohama, Japan
-  sub: ML
 
 - title: ECMR
   year: 2021
@@ -78,7 +71,6 @@
   timezone: UTC-12
   date: September 2021
   place: Bonn, Germany
-  sub: RO
 
 - title: CoRL
   year: 2020
@@ -88,7 +80,6 @@
   timezone: UTC-12
   date: TBA
   place: TBA
-  sub: RO, ML, CV
 
 - title: BMVC
   year: 2020
@@ -98,7 +89,6 @@
   timezone: UTC-12
   date: TBA
   place: TBA
-  sub: ML, CV
 
 - title: FSR
   year: 2021
@@ -108,7 +98,6 @@
   timezone: UTC-12
   date: TBA
   place: TBA
-  sub: RO
   
 - title: ECCV
   year: 2020
@@ -118,7 +107,6 @@
   timezone: UTC-12
   date: Aug 23-28, 2020
   place: Glasgow, UK
-  sub: CV
 
 - title: CVPR
   year: 2020
@@ -128,7 +116,6 @@
   timezone: UTC-12
   date: June 16-18, 2020
   place: Seattle, Washington, US
-  sub: CV
 
 - title: ICML 
   year: 2020
@@ -138,7 +125,6 @@
   timezone: UTC-12
   date: Jul 12-18, 2020
   place: Vienna, Austria
-  sub: ML
 
 - title: TAROS
   year: 2020
@@ -148,4 +134,3 @@
   timezone: UTC-12
   date: TBA
   place: TBA
-  sub: RO
