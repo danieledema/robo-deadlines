@@ -59,3 +59,13 @@
   date: June 15-17, 2020
   place: Oulu, Finland
   sub: RO
+  
+- title: IJCAI
+  year: 2020
+  id: ijcai20
+  link: https://www.ijcai.org/
+  deadline: '2020-01-7 23:59:59'
+  timezone: UTC-12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: ML
