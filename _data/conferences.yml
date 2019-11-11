@@ -71,8 +71,8 @@
   sub: ML
 
 - title: ECMR
-  year: 2020
-  id: ecmr20
+  year: 2021
+  id: ecmr21
   link: http://ecmr2021.org/
   deadline: '2021-04-01 23:59:59'
   timezone: UTC-12
@@ -98,4 +98,54 @@
   timezone: UTC-12
   date: None
   place: None
-  sub: RO, ML, CV
+  sub: ML, CV
+
+- title: FSR
+  year: 2021
+  id: fsr21
+  link: None
+  deadline: 'None'
+  timezone: UTC-12
+  date: None
+  place: None
+  sub: RO
+  
+- title: ECCV
+  year: 2020
+  id: eccv20
+  link: https://eccv2020.eu/
+  deadline: '2020-03-05 23:59:59'
+  timezone: UTC-12
+  date: Aug 23-28, 2020
+  place: Glasgow, UK
+  sub: ML, CV
+
+- title: CVPR
+  year: 2020
+  id: cvpr20
+  link: http://cvpr2020.thecvf.com/
+  deadline: '2019-11-15 23:59:59'
+  timezone: UTC-12
+  date: June 16-18, 2020
+  place: Seattle, Washington, US
+  sub: CV, ML
+
+- title: ICML 
+  year: 2020
+  id: icml20
+  link: https://icml.cc/
+  deadline: '2020-01-31 23:59:59'
+  timezone: UTC-12
+  date: Jul 12-18, 2020
+  place: Vienna, Austria
+  sub: ML, CV
+
+- title: TAROS
+  year: 2020
+  id: taros20
+  link: None
+  deadline: 'None'
+  timezone: UTC-12
+  date: None
+  place: None
+  sub: RO
