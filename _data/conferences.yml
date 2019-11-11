@@ -79,3 +79,13 @@
   date: September 2021
   place: Bonn, Germany
   sub: RO
+
+- title: CoRL
+  year: 2020
+  id: corl20
+  link: None
+  deadline: 'None'
+  timezone: UTC-12
+  date: None
+  place: None
+  sub: RO, ML, CV
