@@ -1,5 +1,15 @@
 ---
 
+- title: ITSC
+  year: 2020
+  id: itsc20
+  link: https://www.ieee-itsc2020.org/
+  deadline: '2020-02-14 23:59:59'
+  timezone: America/Los_Angeles
+  date: Sep 20-23, 2020
+  place: Rhodes, Greece
+  sub: RO
+
 - title: IROS
   year: 2020
   id: iros20
