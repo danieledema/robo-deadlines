@@ -83,31 +83,31 @@
 - title: CoRL
   year: 2020
   id: corl20
-  link: None
-  deadline: 'None'
+  link: TBA
+  deadline: 'TBA'
   timezone: UTC-12
-  date: None
-  place: None
+  date: TBA
+  place: TBA
   sub: RO, ML, CV
 
 - title: BMVC
   year: 2020
   id: bmvc20
-  link: None
-  deadline: 'None'
+  link: TBA
+  deadline: 'TBA'
   timezone: UTC-12
-  date: None
-  place: None
+  date: TBA
+  place: TBA
   sub: ML, CV
 
 - title: FSR
   year: 2021
   id: fsr21
-  link: None
-  deadline: 'None'
+  link: TBA
+  deadline: 'TBA'
   timezone: UTC-12
-  date: None
-  place: None
+  date: TBA
+  place: TBA
   sub: RO
   
 - title: ECCV
@@ -143,9 +143,9 @@
 - title: TAROS
   year: 2020
   id: taros20
-  link: None
-  deadline: 'None'
+  link: TBA
+  deadline: 'TBA'
   timezone: UTC-12
-  date: None
-  place: None
+  date: TBA
+  place: TBA
   sub: RO
