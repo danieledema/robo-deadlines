@@ -1,5 +1,14 @@
 ---
 
+- title: EuRAD
+  year: 2020
+  id: eurad20
+  link: https://www.eumweek.com/conferences/eurad.html
+  deadline: 'TBA'
+  timezone: GMT+1
+  date: Sep 13-18, 2020
+  place: Jaarbeurs Utrecht, the Netherlands
+
 - title: DeLTA
   year: 2020
   id: delta20
