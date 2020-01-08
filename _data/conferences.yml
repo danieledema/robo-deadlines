@@ -1,5 +1,14 @@
 ---
 
+- title: UK RAS
+  year: 2020
+  id: ukras20
+  link: https://www.ukras.org/news-and-events/uk-ras/call-for-papers/
+  deadline: '2020-02-21 23:59:59'
+  timezone: GMT
+  date: April 17, 2020
+  place: University of Lincoln, United Kingdom
+
 - title: VEHITS
   year: 2020
   id: vehits20
