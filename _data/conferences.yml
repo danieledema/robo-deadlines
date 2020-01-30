@@ -1,5 +1,14 @@
 ---
 
+- title: JCRAI
+  year: 2020
+  id: jcrai2020
+  link: http://www.jcrai.org
+  deadline: '2020-08-31 23:59:59'
+  timezone: GMT
+  date: October 11-13, 2020
+  place: Tokyo, Japan
+
 - title: UK RAS
   year: 2020
   id: ukras20
