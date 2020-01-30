@@ -1,13 +1,13 @@
 ---
 
-- title: JCRAI
+- title: IWoFR
   year: 2020
-  id: jcrai2020
-  link: http://www.jcrai.org
-  deadline: '2020-08-31 23:59:59'
+  id: iwofr2020
+  link: http://www.iwofr.org
+  deadline: '2020-02-20 23:59:59'
   timezone: GMT
-  date: October 11-13, 2020
-  place: Tokyo, Japan
+  date: March 20-22, 2020
+  place: Nagoya, Japan
 
 - title: UK RAS
   year: 2020
