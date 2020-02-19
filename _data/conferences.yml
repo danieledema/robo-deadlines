@@ -1,5 +1,14 @@
 ---
 
+- title: ICINCO
+  year: 2020
+  id: icinco2020
+  link: http://www.icinco.org
+  deadline: '2020-03-06 23:59:59'
+  timezone: GMT
+  date: July 7-9, 2020
+  place: Paris, France
+
 - title: JCRAI
   year: 2020
   id: jcrai2020
