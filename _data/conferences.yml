@@ -1,5 +1,14 @@
 ---
 
+- title: NeurIPS
+  year: 2020
+  id: neurips2020
+  link: https://nips.cc/Conferences/2020/Dates
+  deadline: '2020-05-05 23:59:59'
+  timezone: GMT
+  date: December 8-10, 2020
+  place: Vancouver, Canada
+
 - title: ICINCO
   year: 2020
   id: icinco2020
