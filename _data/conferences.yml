@@ -1,5 +1,14 @@
 ---
 
+- title: ICIA
+  year: 2020
+  id: icia2020
+  link: https://www.clocate.com/conference/ieee-international-conference-on-information-and-automation-icia/808/
+  deadline: '2020-??-?? 23:59:59'
+  timezone: GMT
+  date: ??? ?-?, 2020
+  place: ???
+
 - title: NeurIPS
   year: 2020
   id: neurips2020
