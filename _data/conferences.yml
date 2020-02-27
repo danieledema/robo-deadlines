@@ -1,5 +1,14 @@
 ---
 
+- title: ICCA
+  year: 2020
+  id: icca2020
+  link: http://www.ieee-icca.org/
+  deadline: '2020-02-25 23:59:59'
+  timezone: GMT
+  date: July 6-9, 2020
+  place: Sapporo, Hokkaido, Japan
+
 - title: ICIA
   year: 2020
   id: icia2020
