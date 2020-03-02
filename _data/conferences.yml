@@ -1,5 +1,14 @@
 ---
 
+- title: ROMANSY
+  year: 2020
+  id: romansy2020
+  link: http://romansy2020.jc-iftomm.org/
+  deadline: '2020-03-06 23:59:59'
+  timezone: GMT
+  date: September 20-24, 2020
+  place: Sapporo, Japan
+
 - title: ICCA
   year: 2020
   id: icca2020
