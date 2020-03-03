@@ -252,15 +252,14 @@
   date: TBA
   place: TBA
 
-
 - title: ISER
   year: 2020
   id: iser20
-  link: TBA
-  deadline: 'TBA'
-  timezone: UTC-12
-  date: TBA
-  place: TBA
+  link: http://iser2020.org/
+  deadline: '2020-05-01 23:59:59'
+  timezone: GMT
+  date: Nov 9-12, 2020
+  place: Malta
 
 
 - title: ISRR
