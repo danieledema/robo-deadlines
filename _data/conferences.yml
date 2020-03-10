@@ -217,13 +217,22 @@
   place: Glasgow, UK
 
 - title: CVPR
-  year: 2020
+  year: 2021
   id: cvpr20
   link: http://cvpr2020.thecvf.com/
   deadline: '2019-11-15 23:59:59'
   timezone: UTC-12
   date: June 16-18, 2020
   place: Seattle, Washington, US
+  
+- title: CVPR
+  year: 2021
+  id: cvpr21
+  link: http://cvpr2021.thecvf.com/
+  deadline: 'TBA'
+  timezone: UTC-12
+  date: June 19-25, 2020
+  place: Nashville, TN
 
 - title: ICML 
   year: 2020
