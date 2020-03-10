@@ -183,11 +183,11 @@
 - title: CoRL
   year: 2020
   id: corl20
-  link: TBA
-  deadline: 'TBA'
+  link: https://www.robot-learning.org/
+  deadline: '2020-07-07 23:59:59'
   timezone: UTC-12
-  date: TBA
-  place: TBA
+  date: November 14-16 
+  place: MIT
 
 - title: BMVC
   year: 2020
